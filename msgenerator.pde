@@ -1,5 +1,5 @@
 ////////////////
-
+GENERATING-MOBIUS-STRIP
 ////VARIABLES DECLARATION
 var w1 = 1;
 var w2 = 2;
